@@ -10,7 +10,7 @@ Projekt obsahuje dokumentaci manuálního testování REST API.
 
 ## Obsah repozitáře
 
-- `Projekt_2_REST_API.pdf` – kompletní projektová dokumentace.
+- `Projekt_2_Rest_api.pdf` – kompletní projektová dokumentace.
 
 ## Autor
 
